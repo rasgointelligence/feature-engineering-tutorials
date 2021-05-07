@@ -13,7 +13,7 @@ This repository contains tutorials and code to enable data scientists to easily 
       * Moving Average
 * Feature Importance
   * Scikit-learn: [Notebook](https://github.com/rasgointelligence/Tutorials/blob/main/Feature%20Importance/Sklearn%20Feature%20Importance.ipynb)
-  * XGBoost: Notebook
+  * XGBoost: [Notebook](https://github.com/rasgointelligence/Tutorials/blob/main/Feature%20Importance/XGBoost%20Feature%20Importance.ipynb)
   * catboost: Notebook
   * pyrasgo: Notebook
 * Feature Selection
