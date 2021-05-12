@@ -1,5 +1,5 @@
 # Tutorials: Feature Engineering in Python
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main) [![Chat on Slack](https://img.shields.io/badge/chat-on%20Slack-brightgreen.svg)](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g)
 
 This repository contains tutorials and code to enable data scientists to easily create new features and evaluate their importance for supervised machine learning. 
 
