@@ -8,24 +8,54 @@ Please join us on the [Rasgo User Group Slack](https://join.slack.com/t/rasgouse
 
 ## Table of Contents
 * Feature Profiling
-    * pandas-profiling: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb)
-    * SweetViz: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb)
-    * pyrasgo: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/Pyaasgo-profiling.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/Pyaasgo-profiling.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/Pyaasgo-profiling.ipynb)
+    * pandas-profiling
+        * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb)
+        * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb)
+        * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb)
+    * SweetViz
+        * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb)
+        * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb)
+        * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb)
+    * pyrasgo
+        * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/Pyaasgo-profiling.ipynb)
+        * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/Pyaasgo-profiling.ipynb)
+        * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/Pyaasgo-profiling.ipynb)
 * Feature Transformation _(Coming soon)_
     * Time-series
       * Lag
       * Moving Average
 * Feature Importance
-  * Scikit-learn: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb)
-  * XGBoost: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb)
-  * catboost: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Catboost%20Feature%20Importance.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Catboost%20Feature%20Importance.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Catboost%20Feature%20Importance.ipynb)
-  * pyrasgo: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Pyrasgo%20Feature%20Importance.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Pyrasgo%20Feature%20Importance.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Pyrasgo%20Feature%20Importance.ipynb)
+  * Scikit-learn
+      * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb)
+      * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb)
+      * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb)
+  * XGBoost
+      * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb)
+      * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb)
+      * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb)
+  * catboost
+      * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Catboost%20Feature%20Importance.ipynb)
+      * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Catboost%20Feature%20Importance.ipynb)
+      * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Catboost%20Feature%20Importance.ipynb)
+  * pyrasgo
+      * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Pyrasgo%20Feature%20Importance.ipynb)
+      * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Pyrasgo%20Feature%20Importance.ipynb)
+      * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Pyrasgo%20Feature%20Importance.ipynb)
 * Feature Selection
   * Model Agnostic
-      * Low Variance: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Low%20Variance.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Low%20Variance.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Low%20Variance.ipynb)
+      * Low Variance
+          * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Low%20Variance.ipynb)
+          * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Low%20Variance.ipynb)
+          * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Low%20Variance.ipynb)
       * Univariate Feature Selection
-          * F-test: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/F%20Test.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/F%20Test.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/F%20Test.ipynb)
-          * Mutual Information: [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Mutual%20Information.ipynb) [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Mutual%20Information.ipynb) [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Mutual%20Information.ipynb)
+          * F-test
+              * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/F%20Test.ipynb)
+              * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/F%20Test.ipynb)
+              * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/F%20Test.ipynb)
+          * Mutual Information: 
+              * [Notebook](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Mutual%20Information.ipynb) 
+              * [Colab](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Mutual%20Information.ipynb)
+              * [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-selection/model-agnostic/Mutual%20Information.ipynb)
   * Model Based _(Coming soon)_
       * Lasso-based Selection
       * Feature Importance
