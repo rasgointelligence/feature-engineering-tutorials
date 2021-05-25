@@ -14,19 +14,11 @@ Please join us on the [Rasgo User Group Slack](https://join.slack.com/t/rasgouse
     * [pyrasgo](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pyrasgo-profiling.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pyrasgo-profiling.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pyrasgo-profiling.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=feature-profiling/pyrasgo-profiling.ipynb)
 * Data Cleaning _(Coming soon)_
     * Missing Data
-        * Identify
-            * pandas
-            * pyrasgo
-        * Delete
-            * pandas
-            * pyrasgo
+        * pandas
+        * pyrasgo
     * Duplicate Data
-        * Identify
-            * pandas
-            * pyrasgo
-        * Delete
-            * pandas
-            * pyrasgo
+        * pandas
+        * pyrasgo
     * Data Type Mismatch
         * pandas
         * pyrasgo
