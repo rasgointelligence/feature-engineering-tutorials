@@ -12,18 +12,39 @@ Please join us on the [Rasgo User Group Slack](https://join.slack.com/t/rasgouse
     * [pandas-profiling](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pandas-profiling.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=feature-profiling/pandas-profiling.ipynb)
     * [SweetViz](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/SweetViz-profiling.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=feature-profiling/SweetViz-profiling.ipynb)
     * [pyrasgo](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pyrasgo-profiling.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pyrasgo-profiling.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-profiling/pyrasgo-profiling.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=feature-profiling/pyrasgo-profiling.ipynb)
+* Data Cleaning _(Coming soon)_
+    * Missing Data
+        * Identify
+            * pandas
+            * pyrasgo
+        * Delete
+            * pandas
+            * pyrasgo
+    * Duplicate Data
+        * Identify
+            * pandas
+            * pyrasgo
+        * Delete
+            * pandas
+            * pyrasgo
+    * Data Type Mismatch
+        * pandas
+        * pyrasgo
+    * Date Gaps in Time Series
+        * pandas
+        * pyrasgo
 * Feature Transformation _(Coming soon)_
     * Time-series
       * Lag
       * Moving Average
-* Train-Test Split _(Coming Soon)_
+* Train-Test Split
     * Time Series Split
-        * Scikit-learn
-        * pyrasgo
-    * Train-Test Split
-    * K-Fold
-        * Random
-        * Stratified
+        * [Scikit-learn](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-time-series-split.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-time-series-split.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-time-series-split.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=model-selection/sklearn-time-series-split.ipynb)
+        * [pyrasgo](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/pyrasgo-time-series-split.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/pyrasgo-time-series-split.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/pyrasgo-time-series-split.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=model-selection/pyrasgo-time-series-split.ipynb)
+    * [Train-Test Split](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-train-test-split.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-train-test-split.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-train-test-split.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=model-selection/sklearn-train-test-split.ipynb)
+    * K-Fold or Cross-Validation
+        * [Random](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-cross-validation-split.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-cross-validation-split.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-cross-validation-split.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=model-selection/sklearn-cross-validation-split.ipynb)
+        * [Stratified](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-stratified-cross-validation-split.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-stratified-cross-validation-split.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/model-selection/sklearn-stratified-cross-validation-split.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=model-selection/sklearn-stratified-cross-validation-split.ipynb)
 * Feature Importance
      * [Scikit-learn](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/Sklearn%20Feature%20Importance.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=feature-importance/Sklearn%20Feature%20Importance.ipynb)
      * [XGBoost](https://github.com/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb) [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rasgointelligence/feature-engineering-tutorials/blob/main/feature-importance/XGBoost%20Feature%20Importance.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main?filepath=feature-importance/XGBoost%20Feature%20Importance.ipynb)
