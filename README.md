@@ -1,11 +1,16 @@
 # Tutorials: Feature Engineering in Python
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main) [![Chat on Slack](https://img.shields.io/badge/chat-on%20Slack-brightgreen.svg)](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g)
 
-This repository contains tutorials and code to enable data scientists to easily create new features and evaluate their importance for supervised machine learning. 
+Andrew Ng stated, “applied ML is basically just feature engineering.” In data science and ML, the most important, but oftentimes most overlooked, piece of the puzzle is feature engineering. 
 
-At Rasgo, we're data scientists, and we're really interested in the problem of feature engineering and everything that leads to that. We wrestle with these types of problems all the time and thought we'd capture examples of recipes for how to use some of the best tools available in this space. We're also working on our own SDK for feature engineering and want to provide a place to showcase new features as they are ready for testing. We hope you find this repo useful. Please let us know if there are other examples you'd like to see us include either by filing issues or pinging us on our Slack.
+At [Rasgo](https://www.rasgoml.com/), we are data scientists on the mission to enable the global data science community to generate valuable and trusted insights from data in under 5 minutes. As we have marched forward on this mission, we’ve grown incredibly frustrated in the lack of helpful content and python functions that target feature engineering. We wrestle with these problems everyday and we wanted to provide a repository of recipes that showcase how to use the best tools available in this space. Additionally, we’ve built our own SDK ([PyRasgo](https://github.com/rasgointelligence/pyrasgo-tutorials/blob/main/tutorials/PyRasgo%20Tutorial.ipynb)) for feature engineering that enables users to automatically track, visualize, and evaluate their feature engineering experiments to make more accurate and explainable feature engineering decisions for more impactful predictions. 
 
-Please join us on the [Rasgo User Group Slack](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g) to ask questions regarding these recipes.
+In that vein, this repository contains tutorials and code to enable data scientists to easily create new ML features and evaluate their importance for supervised machine learning. We sincerely hope this is helpful and please leave comments with any questions on what we can do to improve!!
+
+Please join us on the 
+* [Rasgo Discourse]() to ask and answer questions regrading these recipies and PyRasgo.
+* [Rasgo User Group Slack](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g) to join our community.
+* Video Tutorials on YouTube _(Coming Soon)_
 
 ## Table of Contents
 * Feature Profiling
