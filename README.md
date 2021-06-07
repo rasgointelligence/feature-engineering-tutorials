@@ -8,7 +8,7 @@ At [Rasgo](https://www.rasgoml.com/), we are data scientists on the mission to e
 In that vein, this repository contains tutorials and code to enable data scientists to easily create new ML features and evaluate their importance for supervised machine learning. We sincerely hope this is helpful and please leave comments with any questions on what we can do to improve!
 
 Please join us on the 
-* [Rasgo Discourse]() to ask and answer questions regrading these recipies and PyRasgo.
+* [Rasgo Forum]() for questions about these recipies and PyRasgo.
 * [Rasgo User Group Slack](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g) to join our community.
 * Video Tutorials on YouTube _(Coming Soon)_
 
