@@ -5,7 +5,7 @@ Andrew Ng stated, “applied ML is basically just feature engineering.” In dat
 
 At [Rasgo](https://www.rasgoml.com/), we are data scientists on the mission to enable the global data science community to generate valuable and trusted insights from data in under 5 minutes. As we have marched forward on this mission, we’ve grown incredibly frustrated in the lack of helpful content and python functions that target feature engineering. We wrestle with these problems everyday and we wanted to provide a repository of recipes that showcase how to use the best tools available in this space. Additionally, we’ve built our own SDK ([PyRasgo](https://github.com/rasgointelligence/pyrasgo-tutorials/blob/main/tutorials/PyRasgo%20Tutorial.ipynb)) for feature engineering that enables users to automatically track, visualize, and evaluate their feature engineering experiments to make more accurate and explainable feature engineering decisions. 
 
-In that vein, this repository contains tutorials and code to enable data scientists to easily create new ML features and evaluate their importance for supervised machine learning. We sincerely hope this is helpful and please leave comments with any questions on what we can do to improve!!
+In that vein, this repository contains tutorials and code to enable data scientists to easily create new ML features and evaluate their importance for supervised machine learning. We sincerely hope this is helpful and please leave comments with any questions on what we can do to improve!
 
 Please join us on the 
 * [Rasgo Discourse]() to ask and answer questions regrading these recipies and PyRasgo.
