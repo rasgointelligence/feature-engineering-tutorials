@@ -1,5 +1,5 @@
 # Tutorials: Feature Engineering in Python
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main) [![Chat on Slack](https://img.shields.io/badge/chat-on%20Slack-brightgreen.svg)](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasgointelligence/feature-engineering-tutorials/main) [![Chat on Discourse](https://img.shields.io/discourse/status?server=https%3A%2F%2Fforum.rasgoml.com)](https://forum.rasgoml.com/) [![Chat on Slack](https://img.shields.io/badge/chat-on%20Slack-brightgreen.svg)](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g)
 
 Andrew Ng stated, “applied ML is basically just feature engineering.” In data science and ML, the most important, but oftentimes most overlooked, piece of the puzzle is feature engineering. 
 
@@ -8,7 +8,7 @@ At [Rasgo](https://www.rasgoml.com/), we are data scientists on the mission to e
 In that vein, this repository contains tutorials and code to enable data scientists to easily create new ML features and evaluate their importance for supervised machine learning. We sincerely hope this is helpful and please leave comments with any questions on what we can do to improve!
 
 Please join us on the 
-* [Rasgo Forum]() for questions about these recipies and PyRasgo.
+* [Rasgo Forum](https://forum.rasgoml.com) for questions about these recipies and PyRasgo.
 * [Rasgo User Group Slack](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g) to join our community.
 * Video Tutorials on YouTube _(Coming Soon)_
 
