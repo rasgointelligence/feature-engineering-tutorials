@@ -11,3 +11,4 @@ statsmodels>=0.12.2
 sweetviz>=2.1.0
 xgboost>=1.4.1
 
+cryptography>=41.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
