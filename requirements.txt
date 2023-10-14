@@ -1,7 +1,7 @@
 catboost>=0.25.1
 category-encoders>=2.2.2
 matplotlib>=3.4.1
-numpy>=1.20.2
+numpy>=1.22.2
 pandas>=1.2.4
 pandas-profiling>=2.13.0
 pyrasgo>=0.1.0a10
@@ -11,3 +11,4 @@ statsmodels>=0.12.2
 sweetviz>=2.1.0
 xgboost>=1.4.1
 
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
